@@ -5,4 +5,6 @@
 - https://stackoverflow.com/questions/38872376/get-the-weather-for-cities-with-names-that-contain-spaces-using-openweathermap
 - https://www.geeksforgeeks.org/python-remove-spaces-from-a-string/#
 
+## converting current time to readable format
+stack overflow problem I borrowed code from: https://stackoverflow.com/questions/19319370/how-do-you-convert-a-python-time-struct-time-object-into-a-iso-string
 
