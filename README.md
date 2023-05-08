@@ -8,3 +8,9 @@
 ## converting current time to readable format
 stack overflow problem I borrowed code from: https://stackoverflow.com/questions/19319370/how-do-you-convert-a-python-time-struct-time-object-into-a-iso-string
 
+## adding text annotation to plots
+- I used this page to print the equation of the line of best fit on each of the linregress analysis plots:
+- https://www.python-graph-gallery.com/46-add-text-annotation-on-scatterplot
+
+- I used this answer from stack overflow to format the line of best fit to show 2 decimal points
+- [https://www.python-graph-gallery.com/46-add-text-annotation-on-scatterplot](https://stackoverflow.com/questions/20457038/how-to-round-to-2-decimals-with-python)
