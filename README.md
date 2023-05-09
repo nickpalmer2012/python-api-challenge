@@ -14,3 +14,7 @@ stack overflow problem I borrowed code from: https://stackoverflow.com/questions
 
 - I used this answer from stack overflow to format the line of best fit to show 2 decimal points
 - [https://www.python-graph-gallery.com/46-add-text-annotation-on-scatterplot](https://stackoverflow.com/questions/20457038/how-to-round-to-2-decimals-with-python)
+
+## selecting cities that had my ideal weather conditions
+- stack overflow solution that helped me code my desireable weather conditions:
+- https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values
