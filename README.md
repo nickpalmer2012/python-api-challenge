@@ -19,5 +19,5 @@ stack overflow problem I borrowed code from: https://stackoverflow.com/questions
 - stack overflow solution that helped me code my desireable weather conditions:
 - https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values
 
-## using the copy function in pandas to create a the hotel_df
+## using the copy function in pandas to create the hotel_df
 -stack overflow solution that I formed code from: https://stackoverflow.com/questions/34682828/extracting-specific-selected-columns-to-new-dataframe-as-a-copy
